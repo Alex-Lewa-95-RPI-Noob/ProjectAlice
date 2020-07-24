@@ -36,6 +36,7 @@ installOnBuster: yes
 adminPinCode: 1234
 
 # Enter Wifi credentials for automatic adding of tasmota/zigbee/netatmo devices even when Alice has wired access
+# Country codes, e.g. US, GB, DE, FR: https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements
 useWifi: yes
 wifiNetworkName:
 wifiWPAPass:
